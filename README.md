@@ -19,6 +19,7 @@ Construo soluções com IA generativa que saem do protótipo e vão para produç
 
 | Projeto | O que é |
 |---|---|
+| [n8n-workflows](https://github.com/bispado/n8n-workflows) | 15 projetos em n8n feitos para negócios reais: agentes de IA no WhatsApp, CFO virtual, funil comercial com qualificação, contratos automáticos e dashboards financeiros. Em coautoria com [@Fgmmra](https://github.com/Fgmmra) e [@KaynBelmont](https://github.com/KaynBelmont) |
 | [genfit-ai-recruiter](https://github.com/bispado/genfit-ai-recruiter) | Recrutamento com IA: GPT-4 ranqueia candidatos, aponta red flags e busca no banco de talentos em linguagem natural. FastAPI + Oracle. [🎥 Demo](https://youtu.be/razi04CvtIk) |
 | [genfitdotnet](https://github.com/bispado/genfitdotnet) | Back-end .NET do GenFit, em Clean Architecture, com pipeline CI/CD no Azure DevOps |
 | [maithe-ai-chatbot](https://github.com/bispado/maithe-ai-chatbot) | Chatbot com Gemini que combate fake news sobre a tragédia no RS usando fontes oficiais de ONGs |
