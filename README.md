@@ -1,34 +1,17 @@
-# Olá, eu sou o Gustavo Bispo 👋
+### Oi, sou o Gustavo.
 
-**AI Builder · Prompt Engineer · Automação com n8n & LangChain**
+Moro em Osasco e trabalho com IA aplicada. Hoje estou na [SofIA](https://suasofia.com.br/), onde desenho a parte de dentro dos nossos agentes de voz para telecom: o caminho da ligação até o modelo, o STT/TTS e as integrações que fazem o agente realmente resolver alguma coisa.
 
-Construo soluções com IA generativa que saem do protótipo e vão para produção: agentes de voz, automações ponta a ponta e integrações com LLMs. Hoje sou Designer de Soluções na [SofIA](https://suasofia.com.br/), uma plataforma SaaS de agentes de IA de voz para o setor de telecomunicações.
+Antes disso passei um ano como prompt engineer na Adalink, escrevendo e testando prompts que iam para produção e montando fluxos no n8n para tirar trabalho repetitivo das pessoas. Foi ali que peguei gosto por automação.
 
-## 🧠 O que eu faço
+Me formei em Análise e Desenvolvimento de Sistemas na FIAP.
 
-- **Agentes de IA de voz**: integração de fluxos de chamada com LLMs e provedores de STT/TTS
-- **Engenharia de prompt**: criação, otimização e avaliação de prompts em produção
-- **Automação**: fluxos com n8n que conectam APIs e sistemas internos e eliminam trabalho manual
-- **Produtos com IA**: do zero ao resultado, com APIs, back-end e dados
+**Alguns projetos**
 
-## 🛠️ Stack
+- [n8n-workflows](https://github.com/bispado/n8n-workflows): automações que fizemos para clientes de verdade, como atendentes no WhatsApp, um "CFO" que responde sobre o caixa da empresa e um gerador de contratos. Fiz com o [@Fgmmra](https://github.com/Fgmmra) e o [@KaynBelmont](https://github.com/KaynBelmont).
+- [genfit-ai-recruiter](https://github.com/bispado/genfit-ai-recruiter): projeto da faculdade que usa GPT-4 para ranquear candidatos e apontar o que merece atenção em cada perfil. Tem [vídeo](https://youtu.be/razi04CvtIk).
+- [maithe-ai-chatbot](https://github.com/bispado/maithe-ai-chatbot): chatbot que fizemos durante as enchentes no Rio Grande do Sul para responder dúvidas com informação oficial e ajudar a separar o que era fake news.
 
-`Python` `TypeScript` `LangChain` `n8n` `OpenAI` `Gemini` `FastAPI` `Next.js` `SQL` `NoSQL` `Azure DevOps`
+No dia a dia uso Python, TypeScript, n8n, LangChain e as APIs da OpenAI e do Gemini.
 
-## 🚀 Projetos em destaque
-
-| Projeto | O que é |
-|---|---|
-| [n8n-workflows](https://github.com/bispado/n8n-workflows) | 15 projetos em n8n feitos para negócios reais: agentes de IA no WhatsApp, CFO virtual, funil comercial com qualificação, contratos automáticos e dashboards financeiros. Em coautoria com [@Fgmmra](https://github.com/Fgmmra) e [@KaynBelmont](https://github.com/KaynBelmont) |
-| [genfit-ai-recruiter](https://github.com/bispado/genfit-ai-recruiter) | Recrutamento com IA: GPT-4 ranqueia candidatos, aponta red flags e busca no banco de talentos em linguagem natural. FastAPI + Oracle. [🎥 Demo](https://youtu.be/razi04CvtIk) |
-| [genfitdotnet](https://github.com/bispado/genfitdotnet) | Back-end .NET do GenFit, em Clean Architecture, com pipeline CI/CD no Azure DevOps |
-| [maithe-ai-chatbot](https://github.com/bispado/maithe-ai-chatbot) | Chatbot com Gemini que combate fake news sobre a tragédia no RS usando fontes oficiais de ONGs |
-| [TREINAMENTO-DE-REDES-NEURAIS](https://github.com/bispado/TREINAMENTO-DE-REDES-NEURAIS) | Visão computacional: treinamento de YOLOv8 para classificar gestos |
-
-## 🎓 Formação
-
-Tecnólogo em Análise e Desenvolvimento de Sistemas, FIAP
-
-## 📫 Contato
-
-[LinkedIn](https://linkedin.com/in/gustavo-bispo-cordeiro-59533a207) · [SofIA](https://suasofia.com.br/)
+Para conversar, me chama no [LinkedIn](https://linkedin.com/in/gustavo-bispo-cordeiro-59533a207).
