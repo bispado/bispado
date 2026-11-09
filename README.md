@@ -8,7 +8,7 @@ Me formei em Análise e Desenvolvimento de Sistemas na FIAP.
 
 **Alguns projetos**
 
-- [n8n-workflows](https://github.com/bispado/n8n-workflows): automações que fizemos para clientes de verdade, como atendentes no WhatsApp, um "CFO" que responde sobre o caixa da empresa e um gerador de contratos. Fiz com o [@Fgmmra](https://github.com/Fgmmra) e o [@KaynBelmont](https://github.com/KaynBelmont).
+- [n8n-workflows](https://github.com/bispado/n8n-workflows): automações que fizemos para clientes de verdade, como atendentes no WhatsApp, um "CFO" que responde sobre o caixa da empresa e um gerador de contratos.
 - [genfit-ai-recruiter](https://github.com/bispado/genfit-ai-recruiter): projeto da faculdade que usa GPT-4 para ranquear candidatos e apontar o que merece atenção em cada perfil. Tem [vídeo](https://youtu.be/razi04CvtIk).
 - [maithe-ai-chatbot](https://github.com/bispado/maithe-ai-chatbot): chatbot que fizemos durante as enchentes no Rio Grande do Sul para responder dúvidas com informação oficial e ajudar a separar o que era fake news.
 
